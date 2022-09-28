@@ -2886,7 +2886,7 @@ m.reply(sewanya)
 break
 case 'sewabot':
 anu = `╭──「 *SEWABOT* 」
-├  1 BULAN : IDR 10.000 (10k)
+├  PERMANEN : IDR 8.000 (8k)
 ╰────
 ╭─ [ KELEBIHAN BOT ]
 ├  ＯＮ 24 ＪＡＭ
@@ -2899,7 +2899,7 @@ anu = `╭──「 *SEWABOT* 」
 ├  DAN RATUSAN FITUR LAINYA
 ╰────
 ╭─[ *MINAT CHAT* ]
-├  🪀 wa.me/6281511480762?text=SEWABOT
+├  🪀 wa.me/62895622436731?text=SEWABOT
 ╰────
 ╭─[ *PAYMENT* ]
 ├  DANA
@@ -2908,7 +2908,7 @@ anu = `╭──「 *SEWABOT* 」
 
 
 ╭──「 *_JADI BOT + OWNER_* 」
-├   RP : IDR 20.000 (20k)
+├   RP : IDR 30.000 (30k)
 ╰────
 ╭─ [ FASILITAS ]
 ├  CUMA SCAN QR DOANG JADI BOT + OWNER                
@@ -2921,7 +2921,7 @@ anu = `╭──「 *SEWABOT* 」
 ├  NAMA BOT, NAMA OWNER, OWNER, DLL DI GANTI JADI TERSERAH LU
 ╰────
 ╭─[ *MINAT CHAT* ]
-├  🪀 wa.me/6281511480762?text=JADIBOT
+├  🪀 wa.me/62895622436731?text=JADIBOT
 ╰────
 ╭─[ *PAYMENT* ]
 ├  DANA
@@ -4838,8 +4838,8 @@ let btn = [{
 
 case 'donasi': {
 anu = `╭─❏ *『 DONASI 』*
-│ ➪ Dana : 081511480762
-│ ➪ Gopay : 081511480762
+│ ➪ Dana : SqanKatalogBot
+│ ➪ Gopay : SqanKatalogBot
 ╰───────────────❏
 
 *TERIMA KASIH BUAT YANG SUDAH MAU DONASI🤗*`
